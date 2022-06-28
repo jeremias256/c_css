@@ -3,22 +3,5 @@ html{
 }
 *, :before, *:after {
     box-sizing: inherit;
+    /*? box-sizing: border-box; */
 }
-
-.nombre-sitio{
-    padding: 20px 0 20px 0;
-}
-
-    /*? display */
-    /*? inline: no podemos usar height/width */
-    /*? block: width/height */
-    /*? inline-block comportamiento inline pero se puede usar w/h */
-
-
-/* p{
-    border-color: #e1e1e1;
-    border-top-style:solid;
-    border-width: 1px;
-
-    border-top: 1px solid #e1e1e1;
-} */
